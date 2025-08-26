@@ -1,4 +1,7 @@
 p{
-    color:blue;
+    color:rgb(62, 174, 226);
     font-size: 20px;
+}
+p:hover{
+    color: green;
 }
